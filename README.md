@@ -1,2 +1,5 @@
 # Cross-check-FAQ
-Important notes for task reviewers.
+Важные замечания по оценке конкретных работ с помощью cross-check.
+
+## Singolo
+[singolo](./singolo.md)
